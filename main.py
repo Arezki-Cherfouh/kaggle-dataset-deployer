@@ -3,7 +3,7 @@ import json
 from kaggle.api.kaggle_api_extended import KaggleApi
 
 # === CONFIGURATION (Edit these) ===
-KAGGLE_TOKEN = "KGAT_4b1373e7ebd0760a75e862ff02c4ed3e"
+KAGGLE_TOKEN = "yourtoken"
 DATASET_ID   = "arezkicherfouh/noobai-lora" # format: username/slug
 TITLE        = "NoobAI LoRA Dataset"
 FOLDER_PATH  = "./my_training_data"           # The folder containing your data
