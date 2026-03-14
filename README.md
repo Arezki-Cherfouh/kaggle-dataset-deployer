@@ -18,8 +18,6 @@ Ensure you have the Kaggle API library installed:
 pip install -U kaggle
 ```
 
-````
-
 ### Setup
 
 1. **Get your Token:** Generate an API token from your [Kaggle Account Settings](https://www.kaggle.com/settings).
@@ -41,4 +39,3 @@ python3 upload_to_kaggle.py
 ## License
 
 This project is open-source and provided as-is.
-````
