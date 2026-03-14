@@ -21,7 +21,7 @@ pip install -U kaggle
 ### Setup
 
 1. **Get your Token:** Generate an API token from your [Kaggle Account Settings](https://www.kaggle.com/settings).
-2. **Configure:** Open `upload_to_kaggle.py` and update the constants at the top:
+2. **Configure:** Open `main.py` and update the constants at the top:
 
 - `KAGGLE_TOKEN`: Your API token string (e.g., `KGAT_...`).
 - `DATASET_ID`: Your target (e.g., `username/dataset-name`).
@@ -32,7 +32,7 @@ pip install -U kaggle
 Run the script from your terminal:
 
 ```bash
-python3 upload_to_kaggle.py
+python3 main.py
 
 ```
 
